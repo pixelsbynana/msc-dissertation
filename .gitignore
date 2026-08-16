@@ -1,0 +1,10 @@
+# Large raw datasets — not tracked in git
+heedb_10k/
+ptb-xl-og/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
