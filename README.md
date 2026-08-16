@@ -4,7 +4,7 @@
 
 MSc Computer Science (Conversion) dissertation project by **Arrada Wongkittiruk**, supervised by **Dr. Xu Chen**.
 
-This project trains a deep learning model to read 12-lead ECGs (electrocardiograms) and predict 28 possible diagnoses at once — for example normal sinus rhythm, bundle branch block, or myocardial infarction. Because a single ECG can show more than one condition at the same time, the model is built for **multi-label classification** rather than picking just one diagnosis.
+This project trains a deep learning model to read 12-lead ECGs (electrocardiograms) and predict 28 possible diagnoses at once — for example normal sinus rhythm, left bundle branch block, or anterior infarct. Because a single ECG can show more than one condition at the same time, the model is built for **multi-label classification** rather than picking just one diagnosis.
 
 Alongside the prediction, the project also estimates **how confident the model is** in each prediction, and shows **which part of the ECG signal the model focused on** to reach that decision.
 
